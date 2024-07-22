@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("/cyberpunk_cat.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: inherit;
+} */
+/* Custom CSS to override DaisyUI styles */
+.card.image-full:before {
+  background-color: transparent !important; /* or adjust to your preference */
+  opacity: 0 !important; /* or a very low value if you want a slight overlay */
+}
