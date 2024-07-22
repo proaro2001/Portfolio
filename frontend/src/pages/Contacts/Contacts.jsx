@@ -7,7 +7,7 @@ const Contacts = () => {
       <NavigationBar />
       <div className="min-h-screen flex flex-col">
         {/* Contents Goes below */}
-        {/* End of Contents */}
+        {/* End of Contents  */}
       </div>
       <Footer />
     </div>
