@@ -27,7 +27,7 @@ const NavigationBar = () => {
               <a href="/Home">Home</a>
             </li>
             <li>
-              <a href="About">About</a>
+              <a href="/About">About</a>
             </li>
             <li>
               <a href="/Projects">Projects</a>
